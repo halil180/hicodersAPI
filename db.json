@@ -1,0 +1,24 @@
+{
+    "hicoders":[
+        {
+            "id":0,
+            "participant":"example Hicoders participant",
+            "message":"Don't repeat yourself",
+            "address":{
+                "street":"Schaffhauserstrasse 470",
+                "canton":"Zurich",
+                "zip":"8052"
+            }
+        },
+        {
+            "id":1,
+            "participant":"another participant",
+            "message":"Simplicity is the soul of efficiency",
+            "address":{
+                "street":"La Haute-route",
+                "canton":"Bern",
+                "zip":"2502"
+            }
+        }
+    ]
+}
